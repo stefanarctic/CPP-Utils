@@ -1,3 +1,3 @@
 # CPP-Utils
 
-A C++ library for making your life easier
+A C++ library for making your life easier (**W.I.P**)
